@@ -23,7 +23,5 @@ public class WebTest implements IAbstractTest {
         singUpLogInPage.clickLogInBtn();
     }
 
-    // AsdaDASdas
-    // Changes
-    // ASADSADASDASD
+
 }
