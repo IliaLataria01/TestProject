@@ -23,5 +23,5 @@ public class WebTest implements IAbstractTest {
         singUpLogInPage.clickLogInBtn();
     }
 
-    // gamifrinda chiti gvriti ou raninaaaa
+    // gamifrinda chiti gvriti ou raninaaaa, asd
 }
